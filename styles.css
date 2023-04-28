@@ -40,7 +40,7 @@ img {
 hr {
   height: 2px;
   background-color: brown;
-  border-color: maroon;
+  border-color: brown;
 }
 
 .bottom-line {
@@ -83,11 +83,11 @@ a {
 }
 
 a:visited {
-  color: blue;
+  color: black;
 }
 
 a:hover {
-  color: yellowgreen;
+  color: brown;
 }
 
 a:active {
